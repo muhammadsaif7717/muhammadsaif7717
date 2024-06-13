@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. SAIF ISLAM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<img align="right" alt="coading" width="400" src="./coading.gif">
+<img align="right" alt="coading" width="350" src="./coading.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaif7717&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif7717" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, Firebase, Tailwind, CSS, HTML etc.**
+- 💬 Ask me about: **React, Node.js, Express.js, MongoDB, Firebase, Tailwind, CSS, HTML etc.**
 
-- 📫 How to reach me **muhammadsaif7717@gmail.com**
+- 📫 How to reach me <br> Email: **muhammadsaif7717@gmail.com** <br> Whats App: **+8801319630516**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bI07nOE949lIj5kUNtlEAKhIqo_sMt5w/view?usp=drive_link](https://drive.google.com/file/d/1bI07nOE949lIj5kUNtlEAKhIqo_sMt5w/view?usp=drive_link)
 

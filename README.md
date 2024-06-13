@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. SAIF ISLAM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<img align="right" alt="coading" width="400" src="./Github Banner.png">
+<img align="right" alt="coading" width="400" src="./coading.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaif7717&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif7717" /> </p>
 

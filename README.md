@@ -4,7 +4,7 @@
 
 <img align="right" alt="coading" width="350" src="./coading.gif">
 
-<p align="left"> <img src="https://github.com/muhammadsaif7717/muhammadsaif7717/blob/main/Github%20Banner.png" alt="muhammadsaif7717" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaif7717&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif7717" /> </p>
 
 - 🔭 I’m currently working on [Bistro Boss](https://residencepro-7717.web.app)
 

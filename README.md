@@ -10,7 +10,7 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=muhammadsaif7717&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif7717" />
   </p>
-  <h3 align="left"><b>Current Overview</b></h3>
+  <h3 align="left">🚀 Current Overview 🚀</h3>
   <ul align="left">
     <li>🔭 I’m working in - <a target="_blank" href="https://residencepro-7717.web.app">ResidencePro</a></li>
     <li>🌱 I’m learning - <strong>Next.js</strong></li>
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <h3 align="left"><b>Reach me out</b></h3>
+  <h3 align="left">📨 Reach me out 📨</h3>
   <p align="left">
     <a href="https://twitter.com/muhammadsaif77" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadsaif77" height="30" width="40" />

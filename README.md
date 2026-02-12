@@ -20,8 +20,8 @@
   </p>
   <h3 align="left">🚀 Current Overview 🚀</h3>
   <ul align="left">
-    <li>🔭 I’m working in - <a target="_blank" href="https://residencepro-7717.web.app">ResidencePro</a></li>
-    <li>🌱 I’m learning - <strong>Next.js</strong></li>
+    <li>🔭 I’m working in - <a target="_blank" href="https://easy-readme01.vercel.app">EasyReadme</a></li>
+    <li>🌱 I’m learning - <strong>Redux</strong></li>
     <li>🔍 I’m looking - <strong>To collaborate on open source projects</strong></li>
     <li>🏃 I’m trying - <strong>To learn full stack web development</strong></li>
     <li>💬 Ask me about - <strong>MERN Stack Development</strong></li>
